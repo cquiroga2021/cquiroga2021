@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cquiroga2021
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning every day
 - 💞️ I’m looking to collaborate on MPV 
 - 📫 How to reach me: drop an email at cquiroga@globalis-sa.com
 
