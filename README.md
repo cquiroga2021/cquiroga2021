@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cquiroga2021
 - 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on MPV 
-- 📫 How to reach me: drop an email at cquiroga@globalis-sa.com
+- 📫 How to reach me: drop an email at carlos.quiroga@codefirstlab.com
 
 <!---
 cquiroga2021/cquiroga2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
